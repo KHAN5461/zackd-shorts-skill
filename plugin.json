@@ -1,0 +1,20 @@
+{
+  "name": "zackd-viral-shorts",
+  "version": "1.0.0",
+  "description": "Production engine for 10-scene viral 3D explainer YouTube Shorts & TikToks in the Zack D Films storytelling style.",
+  "author": "Antigravity Community",
+  "license": "MIT",
+  "keywords": [
+    "youtube-shorts",
+    "zack-d-films",
+    "ai-video",
+    "kling",
+    "veo3",
+    "sora",
+    "unreal-engine",
+    "scriptwriting"
+  ],
+  "skills": [
+    "skills/zackd-viral-shorts"
+  ]
+}

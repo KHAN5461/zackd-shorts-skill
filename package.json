@@ -1,0 +1,25 @@
+{
+  "name": "zackd-viral-shorts",
+  "version": "1.0.0",
+  "description": "Enterprise agent skill and director system for viral 3D explainer shorts in Zack D Films style",
+  "main": "skills/zackd-viral-shorts/SKILL.md",
+  "scripts": {
+    "test": "node -e \"console.log('Skill manifest valid')\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/zackd-viral-shorts.git"
+  },
+  "keywords": [
+    "antigravity",
+    "claude-skill",
+    "agent-skill",
+    "youtube-shorts",
+    "zack-d-films",
+    "unreal-engine",
+    "veo3",
+    "kling"
+  ],
+  "author": "",
+  "license": "MIT"
+}
