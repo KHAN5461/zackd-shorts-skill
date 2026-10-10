@@ -1,40 +1,49 @@
-# AAA Game Cutscene Image Prompting System (Unreal Engine 5.4 / Unity HDRP)
+# The Exact Zack D Films 3D Visual Prompting Blueprint
 
-## 1. Aesthetic Target: Stylized 3D Realism
-Zack D Films visuals are neither cartoon Pixar nor uncanny hyper-photorealism. They are modeled after **AAA Video Game In-Engine Cutscenes**:
-- **Geometry:** Crisp, high-poly stylized game meshes.
-- **Shading:** Subsurface scattering on skin, matte roughness on plastics, brushed metal textures, worn concrete.
-- **Lighting:** Three-point volumetric lighting, soft ambient occlusion, subtle rim light highlighting silhouettes.
-- **Color Grading:** Controlled, slightly desaturated tones with accent focal colors (e.g., hazard orange, surgical cyan, arterial red).
-
----
-
-## 2. Character Persistence Anchor Formula
-To eliminate character distortion across Midjourney v6, Flux.1 Pro, DALL-E 3, and Stable Diffusion XL, construct a persistent character anchor string in Scene 1 and repeat it verbatim in all scenes:
-
-```
-[Character Name], a [Age]-year-old [Gender] with [Exact Hairstyle & Hair Color], [Facial Structure / Beard / Eyebrows], wearing [Specific Upper Clothing with Material & Color] and [Specific Lower Clothing].
-```
-
-*Example Character Anchor:*
-> "Mark, a 28-year-old man with short cropped dark brown hair, light stubble along his jawline, wearing a fitted matte slate-gray zip-up technical jacket with subtle stitch seams and dark charcoal cargo trousers."
+## 1. The Signature Zack D Visual Aesthetic
+Zack D Films does **not** look like a dark, gritty AAA military game or cartoon caricature. The signature look is a **clean, stylized 3D medical/forensic simulation** rendered in Blender, Maya, or Unreal Engine with:
+- **Clean Stylized 3D Character:** Smooth, matte-shaded human character model with clean features, clear expressive eyes, and natural proportions.
+- **Translucent X-Ray Cutaways:** The character's outer skin becomes semi-transparent or reveals a cutaway section showing vibrant, color-coded 3D internal anatomy.
+- **Color-Coded Anatomical Systems:**
+  - Lungs & Air passages: Translucent pastel pink and glowing cyan airflow.
+  - Circulatory System: Glowing crimson blood vessels with visible floating blood cells.
+  - Nervous System: High-contrast glowing yellow/gold nerve fibers.
+  - Bones & Joints: Clean ivory 3D skeleton model.
+  - Pressure & Vectors: Glowing red and bright yellow 3D arrows showing forces, air blasts, or friction.
+- **Pristine Studio Environment:** Clean minimalist studio setting with a light neutral gray or soft gradient infinity backdrop, soft three-point studio lighting, and subtle ground contact shadows. Zero film grain, zero grimy grunge.
 
 ---
 
-## 3. Scene Image Prompt Structure (3–5 Lines)
+## 2. Universal Zack D Character Anchor Token
 
-Each prompt must consist of 4 structured components:
+To guarantee character consistency across Midjourney v6, Flux.1, Grok AI, and DALL-E 3, define the character token in Scene 1 and repeat it verbatim across all scenes:
 
 ```
-Line 1 [Subject & Action]: [Character Anchor] [Precise physical action or anatomical cross-section].
-Line 2 [Environment & Props]: [Detailed setting description, floor/wall materials, industrial or organic textures, background depth].
-Line 3 [Lighting & Atmosphere]: [Directional game lighting, subtle volumetric light rays, light atmospheric fog or micro-dust particles, muted color palette].
-Line 4 [Camera & Rendering Specs]: [Camera shot type (Close-up / 35mm medium shot / Cross-section cutaway / Low angle), Unreal Engine 5.4 render, AAA game cutscene style, subtle depth of field, 8k octane detail, volumetric shading].
+[Character Name], a stylized 3D rendered young man with clean short dark hair, smooth matte clay-shaded skin, expressive features, wearing a solid [Color] crewneck casual t-shirt and dark gray fitted trousers, Zack D Films 3D explainer style.
+```
+
+*Default Example Anchor:*
+> "Alex, a stylized 3D rendered 25-year-old man with clean short dark brown hair, smooth matte clay-shaded skin, expressive features, wearing a solid royal blue crewneck casual t-shirt and dark gray fitted trousers, Zack D Films 3D explainer style."
+
+---
+
+## 3. The 4-Line Zack D Image Prompt Structure
+
+Each scene prompt must strictly follow this 4-line formula:
+
+```
+Line 1 [Character & Visible Action]: [Character Anchor] standing in a neutral posture, [specific external physical action e.g., pinching his nose and mouth tightly shut to hold in a sneeze].
+Line 2 [X-Ray / Internal Cutaway]: [Translucent cross-section cutaway showing internal 3D anatomy, glowing airway passages, red force vectors, or detailed bone/organ simulation].
+Line 3 [Lighting & Studio Backdrop]: Clean minimalist 3D studio background, soft neutral gray studio infinity cyclorama, soft studio key light, gentle rim lighting highlighting character silhouette, crisp ground contact shadow.
+Line 4 [Rendering Engine & Style Tokens]: Stylized 3D explainer animation render, clean Blender Cycles 3D simulation, medical cross-section illustration, pristine smooth surfaces, vibrant color-coded internal anatomy, 8k render, no film grain, Zack D Films aesthetic.
 ```
 
 ---
 
-## 4. Visual Consistency Rules
-1. **Never switch character outfits** midway through a script unless explicitly required by the narrative.
-2. **Lock camera aesthetic:** Always maintain the same video game engine render quality across all 10 scenes.
-3. **Cross-Sections & Cutaways:** For biological or mechanical internals, specify clear 3D anatomical cutaways with glowing energy or fluid flow indicators.
+## 4. Prompt Examples: Anatomy & Cutaways
+
+### External Physical Setup:
+> "Alex, a stylized 3D rendered 25-year-old man with clean short dark brown hair, smooth matte clay-shaded skin, expressive features, wearing a solid royal blue crewneck casual t-shirt and dark gray fitted trousers, Zack D Films 3D explainer style, seen from the chest up with fingers pinching his nose and mouth closed in panic. Clean minimalist studio background with soft neutral gray lighting. Stylized 3D explainer animation render, clean Blender Cycles simulation, pristine smooth textures, crisp lighting."
+
+### Translucent X-Ray Cutaway:
+> "Alex, a stylized 3D rendered 25-year-old man with clean short dark brown hair, smooth matte clay-shaded skin, expressive features, wearing a solid royal blue crewneck casual t-shirt and dark gray fitted trousers, Zack D Films 3D explainer style, with his head and neck rendered in a semi-transparent cross-section. Translucent skin reveals glowing cyan air pressure rushing upward into the pink Eustachian tubes with glowing red stress vectors highlighting the delicate eardrum. Clean light gray studio backdrop, medical 3D simulation render, high clarity, vibrant anatomical colors, Zack D Films aesthetic."

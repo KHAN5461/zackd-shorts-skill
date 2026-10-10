@@ -1,56 +1,32 @@
-# AI Video Animation Mastery Guide (Veo 3, Kling, Sora, Wan 2.1, Hailuo)
+# The Exact Zack D Films 3D Video Animation Blueprint
 
-## 1. The Core AI Video Prompting Framework
-AI video diffusion models (Google Veo 3, Kuaishou Kling 1.5/2.0, OpenAI Sora, Wan 2.1, and Minimax Hailuo) fail when prompts contain too many competing movements or abstract emotional words. 
-
-This guide enforces **Micro-Movement Choreography, Strict Timestamps, and Camera Physics**.
-
----
-
-## 2. Universal Video Animation Prompt Formula
-
-Each animation prompt is formatted as a single cohesive, high-clarity paragraph containing:
-1. **Initial Camera Framing & Subject Anchor**
-2. **Phase 1 Motion (0–2s):** Primary micro-action and physical reaction.
-3. **Phase 2 Motion (2–4s):** Secondary interaction, fluid/particle motion, or mechanical shift.
-4. **Phase 3 Motion (4–6s):** Escalation, facial micro-expression, and movement settling.
-5. **Final Frame Lock:** Locked resting angle and camera resting position.
+## 1. The Core Zack D Animation Mechanics
+Zack D Films videos feature a very specific animation style:
+1. **The Translucent Cross-Section Reveal:** The camera zooms toward a body part, and the character's skin transitions from solid matte clay to semi-transparent glass, revealing internal 3D organs, bones, and vessels.
+2. **Dynamic 3D Simulation Elements:** Highlighting forces using floating arrows, glowing cyan air streams, pulsing red inflammation zones, or expanding gas bubbles.
+3. **Smooth, Clinical Micro-Motion:** No frantic shaky camera work. Camera movement is slow, smooth, and surgical (slow push-in, subtle orbital drift, smooth cutaway track).
+4. **Minimal Expressive Character Acting:** Characters hold clean, natural postures with simple readable reactions: eyes widening in realization, hand touching neck/ear, eyebrows raising, calm steady breathing.
 
 ---
 
-## 3. Standard Animation Prompt Template
+## 2. Universal Animation Prompt Formula (Zack D Style)
+
+Each animation prompt is written as a structured paragraph with chronological timestamps:
 
 ```
-[Camera starting position and shot type]. At 0–2 seconds, [Subject Anchor] performs [simple micro-motion 1], while [subtle natural physics such as fabric shift or hair sway] responds naturally to momentum. Between 2–4 seconds, [secondary motion or environmental effect such as drifting dust/steam/fluid flow] progresses smoothly across the frame as [facial micro-expression manifests physically with widening eyes / clenched jaw]. From 4–6 seconds, the camera [controlled cinematic move: slow push-in / side pan / crane down] while [action concludes into steady state]. The scene concludes in a locked, stable [final camera framing] with [subject / object state] remaining perfectly clear in the final frame.
+[Starting Framing & Character State]. At 0–2 seconds, [Character] performs [simple micro-motion, e.g., pinching nose or swallowing], while [skin transitions from solid to semi-transparent cutaway]. Between 2–4 seconds, [internal 3D simulation activates, e.g., glowing cyan air pressure or pulsing red stress arrows expand through the cross-section]. From 4–6 seconds, the camera performs a [slow surgical push-in or smooth orbit], while [the physical reaction concludes into a clear visual stopping point]. The frame concludes locked steadily on [the key internal anatomical target or clear final state], maintaining pristine clean studio clarity.
 ```
 
 ---
 
-## 4. Translating Emotion into Physical Animation Tokens
-Never use abstract emotions. Map internal feelings directly into physical render tokens:
+## 3. Physical Animation Tokens for 3D Video Generators
 
-| Abstract Concept | Physical Animation Token |
+Optimized for **Grok AI**, **Google Veo 3**, **Kuaishou Kling 1.5/2.0**, **Wan 2.1**, and **Hailuo AI**:
+
+| Zack D Effect | Animation Prompt Phrasing |
 | :--- | :--- |
-| **Panic / Fear** | *Eyebrows contract sharply downward, pupils rapidly dilate, breath becomes shallow with rapid chest rise, and head jerks slightly to the left.* |
-| **Pain / Strain** | *Teeth clench visibly behind parted lips, neck tendons pull taut, eyes squint tightly, and shoulders stiffen upwards.* |
-| **Shock / Surprise** | *Jaw drops slightly, eyelids retract showing sclera, hands freeze mid-motion, and body recoils backward two inches.* |
-| **Focus / Determination**| *Gaze locks firmly forward, blinking ceases, jaw sets firmly, and torso leans subtly forward with steady controlled breathing.* |
-
----
-
-## 5. Model-Specific Optimization Cheat Sheet
-
-### Google Veo 3 & Sora
-- Excels at complex physical dynamics and fluid physics.
-- Specify exact lens focal lengths (e.g., `Shot on 35mm lens, f/2.8, slow forward dolly`).
-- Keep light bounce and environmental volumetric lighting explicitly described.
-
-### Kling AI (v1.5 / v2.0)
-- Superb character motion fidelity.
-- Use `Camera movement: Pan Left / Push In (Speed: 3/10)` or descriptive motion blocks.
-- Keep background static or very slowly drifting to avoid character morphing.
-
-### Wan 2.1 & Minimax Hailuo AI
-- Extremely responsive to realistic human movement and realistic pacing.
-- Use clean chronological sentences without jargon.
-- Explicitly emphasize consistent character clothing and hair textures throughout.
+| **X-Ray Cutaway Transition** | *"At 0–2 seconds, the character's outer skin becomes semi-transparent with a clean 3D cross-section cutaway smoothly fading into view to reveal internal anatomy."* |
+| **Air / Pressure Wave** | *"Between 2–4 seconds, a bright glowing cyan shockwave of compressed air rushes upward through the 3D airway model, pulsing with visible kinetic pressure."* |
+| **Tissue Rupture / Swelling**| *"From 2–4 seconds, the red tissue lining expands outwards under internal strain, with bright red danger highlight markers pulsing along the microscopic tear point."* |
+| **Camera Tracking** | *"The camera executes a smooth surgical push-in, transitioning seamlessly from a chest-level medium shot into a focused macro cross-section view."* |
+| **Locked Studio Final Frame** | *"The animation settles into a locked, stable composition with crisp three-point studio lighting and clean floor shadow, showing the internal organ in sharp focus."* |

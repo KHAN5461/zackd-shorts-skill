@@ -2,119 +2,98 @@
 name: zackd-viral-shorts
 description: >-
   Specialized agent skill for end-to-end production of ultra-high-retention 3D explainer YouTube Shorts
-  and TikToks in the signature storytelling style of Zack D Films and ReachMora. Executes:
-  (1) 10-scene micro-scripts (8-12 words/scene) or dramatic 4-6 scene historical mystery thrillers,
-  (2) Script rewriting & transcript polishing to strip filler and maximize tension,
-  (3) AAA Unreal/Unity cutscene image prompts with persistent character anchors, and
-  (4) Physics-accurate timestamped animation prompts optimized for Grok AI, Veo 3, Kling, Sora, Wan 2.1, and Hailuo AI.
+  and TikToks in the EXACT signature storytelling and visual style of Zack D Films. Executes:
+  (1) 10-scene continuous micro-scripts with exact 8-12 word limits and iconic hook formulas ("If you ever...", "Most people think..."),
+  (2) Zack D 3D stylized explainer image prompts (smooth matte clay skin, translucent X-ray cutaways, vibrant anatomical color codes, clean studio cyclorama),
+  (3) Physics-accurate timestamped 3D simulation animation prompts for Grok AI, Veo 3, Kling, Sora, Wan 2.1, and Hailuo AI, and
+  (4) ReachMora historical thriller & script rewriting engine.
 ---
 
-# Zack D Films Viral Shorts AI Director Skill
+# Exact Zack D Films Viral Shorts AI Director Skill
 
 ## Skill Overview
-This skill transforms the agent into an elite YouTube Shorts & Short-Form 3D Animation Creative Director. It supports both **Zack D Films 3D explainers** and **ReachMora historical thriller / strange invention** workflows, featuring automated ideation, scriptwriting, script rewriting, AAA visual prompts, and AI animation direction.
+This skill turns the agent into an exact replica of the creative director and 3D simulation team behind **Zack D Films**. It generates identical scripts, visual prompts, and animation choreographies matching Zack D's multi-million view signature format.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                               PRODUCTION PIPELINES                                     │
+│                        AUTHENTIC ZACK D FILMS 3-STAGE PIPELINE                         │
 ├───────────────────────────────┬───────────────────────────────┬────────────────────────┤
-│  MODE A: 10-SCENE EXPLAINER   │  MODE B: HISTORICAL THRILLER  │  MODE C: REWRITING     │
-│  Zack D Micro-Pacing          │  ReachMora 4-6 Scene Mystery  │  Transcript to Viral   │
-│  Exactly 8-12 words/scene     │  Strange Inventions/Disasters │  Zero filler, high APV │
-├───────────────────────────────┴───────────────────────────────┴────────────────────────┤
-│  STAGE 2: AAA 3D Game Cutscene Prompts (Unreal Engine 5.4 / Period Authenticity)       │
-│  STAGE 3: AI Video Animation Choreography (Grok AI / Kling / Veo 3 / Wan 2.1 / Hailuo)  │
-│  STAGE 4: Free Production Toolchain Setup (ElevenLabs + Grok/Kling + CapCut)           │
-└────────────────────────────────────────────────────────────────────────────────────────┘
+│  STAGE 1: EXACT ZACK D SCRIPT │  STAGE 2: ZACK D 3D VISUALS   │  STAGE 3: 3D ANIMATION │
+│  10 Scenes (8–12 words/ea)    │  Smooth Matte Clay Human      │  Translucent X-Ray     │
+│  "If you ever..." hook        │  Translucent Cutaways         │  Dynamic Force Vectors │
+│  Causal anatomical chain      │  Clean Studio Cyclorama       │  Timestamped (0–2s...) │
+└───────────────────────────────┴───────────────────────────────┴────────────────────────┘
 ```
 
 ---
 
-## Invocation Triggers
-Activate this skill whenever the user asks to:
-- Generate Zack D Films style shorts, scripts, or video prompts.
-- Create eerie, strange, or shocking historical stories (e.g., safety coffins, bizarre medical practices, forgotten disasters).
-- Rewrite a raw YouTube video transcript or script to make it tight, cinematic, and viral.
-- Produce 3D animated game cutscene image prompts with character/era persistence.
-- Generate AI video motion prompts for Grok AI, Veo 3, Kling, Sora, Wan 2.1, or Hailuo.
-- Set up an end-to-end free AI shorts pipeline using ElevenLabs, Grok AI, and CapCut.
+## The Signature Zack D Blueprint & Rules
+
+### STAGE 1: Exact Zack D Scripting (10 Scenes, Strictly 8–12 Words)
+Every script MUST follow the exact Zack D conversational cadence and sentence-by-sentence progression:
+
+| Scene | Role | Structural Sentence Formula |
+| :---: | :--- | :--- |
+| **Scene 1** | **The Hook** | *"If you ever [do action], you might cause serious hidden damage."* |
+| **Scene 2** | **The Myth** | *"Most people assume that [intuitive belief happens safely and harmlessly]."* |
+| **Scene 3** | **The Reality** | *"In reality, [the abrupt anatomical or physical truth is revealed]."* |
+| **Scene 4** | **Internal Shift** | *"This violent trapped force is suddenly forced backward into your head."* |
+| **Scene 5** | **Anatomical Target** | *"The blast of compressed air travels directly into delicate internal passages."* |
+| **Scene 6** | **Escalation 1** | *"In severe cases, this immense pressure shockwave can rupture your eardrum."* |
+| **Scene 7** | **Escalation 2** | *"Or worse, the extreme force can burst tiny blood vessels in eyes."* |
+| **Scene 8** | **Critical Danger** | *"Some individuals have even torn their throat tissues by holding sneezes."* |
+| **Scene 9** | **Body Defense** | *"Sneezing is your body's natural reflex to expel dangerous irritating particles."* |
+| **Scene 10** | **The Takeaway** | *"So next time you feel one coming, always let it out."* |
+
+> [!CRITICAL]
+> **Word Count Rule:** Every single scene sentence MUST contain between **8 and 12 words**. Zero exceptions. Do not use filler; keep it conversational, direct ("you"), and clinical.
+
+*Stop and ask the user: "Type 'continue' to generate the exact Zack D 3D Visual Prompts."*
 
 ---
 
-## Production Workflows
+### STAGE 2: Exact Zack D 3D Visual Prompts
+Zack D visuals are NOT gritty photorealism and NOT cartoon caricature. They are **clean, stylized 3D medical & forensic simulations**:
 
-### WORKFLOW 1: Signature Zack D Explainer (10 Scenes, Strict Micro-Pacing)
-1. **Scene Count:** Exactly **10 scenes** (numbered Scene 1 to Scene 10).
-2. **Word Count:** Exactly **8 to 12 words per scene** (Single sentence per scene).
-3. **Pacing:** Continuous causal chain where each scene naturally triggers the next.
-4. **Structure:**
-   - *Scene 1:* Immediate visual hook & initial condition.
-   - *Scene 2:* What people falsely expect happens.
-   - *Scene 3:* The hidden twist or real danger.
-   - *Scenes 4–9:* Step-by-step escalation / internal biological or mechanical cascade.
-   - *Scene 10:* Final resolution, survival maneuver, or definitive outcome.
+1. **Character Anchor Token:**
+   - Smooth matte clay-shaded human character model, clean facial geometry, expressive eyes and eyebrows, solid-color crewneck t-shirt, dark trousers.
+   - Defined in Scene 1 and repeated verbatim in all 10 prompts.
+2. **Translucent X-Ray Cutaways:**
+   - The outer skin is semi-transparent, revealing vibrant 3D internal organs.
+   - **Color Codes:** Translucent pink lungs/organs, glowing cyan air streams, glowing crimson blood vessels, glowing yellow nerves, bright red force stress rings.
+3. **Environment & Studio Lighting:**
+   - Clean minimalist studio setting with a light neutral gray cyclorama background.
+   - Soft three-point studio lighting, crisp ground contact shadow, zero grain, pristine surfaces.
+4. **Length:** Exactly 3 to 5 descriptive lines per prompt.
 
----
-
-### WORKFLOW 2: Dramatic Historical Mystery & Eerie True Stories (4–6 Scenes)
-Focuses on true, bizarre historical events that sound unbelievable (ReachMora format):
-1. **Topic Categories:**
-   - *Strange Inventions:* (e.g., safety coffins for premature burials, smoke enemas).
-   - *Forgotten Disasters:* (e.g., London Beer Flood, Lake Peigneur vortex).
-   - *Bizarre Medical Practices:* (e.g., tapeworm pills, trepanation).
-   - *Extreme Human Feats / Survival:* (e.g., falling from airplane without parachute).
-2. **Script Structure:** 30–60 second cinematic, emotional, and intense script with a gripping sensory hook in the opening line.
-3. **Key Scenes:** Break into **4 to 6 key visual scenes**.
+*Stop and ask the user: "Type 'continue' to generate the 3D Video Animation Prompts."*
 
 ---
 
-### WORKFLOW 3: YouTube Transcript & Script Rewriting Engine
-When provided with a raw transcript, article, or messy draft:
-1. Strip all timestamps, speaker labels, verbal filler ("uh", "like", "basically"), and repetition.
-2. Rewrite into tight, cinematic, present-tense storytelling without making it longer.
-3. Inject vivid sensory hooks and escalation.
-4. Maintain strict factual accuracy.
+### STAGE 3: Exact Zack D 3D Video Animation Prompts
+Optimized for **Grok AI**, **Google Veo 3**, **Kling 1.5/2.0**, **Wan 2.1**, and **Hailuo AI**:
+
+1. **Micro-Motion Chronology (0–2s, 2–4s, 4–6s):**
+   - 0–2s: Micro-gesture (pinching nose, swallowing, head turning) + skin transitions into translucent cutaway.
+   - 2–4s: Internal 3D simulation activates (cyan air rushing, red stress rings pulsing, fluids flowing).
+   - 4–6s: Slow surgical camera push-in or gentle orbit, settling into a locked resting cutaway frame.
+2. **Physical Emotion Expressions:**
+   - Describe visible physical movements (widened eyes, clenched jaw, tensed neck tendons).
+3. **Lock Final Frame:**
+   - End each shot in a stable, sharp final composition with pristine lighting.
 
 ---
 
-### STAGE 2: AAA 3D Cutscene Visual Prompts
-1. **Style Target:** Computer-generated cinematic shot from a realistic 3D animated video game (Unreal Engine 5.4 / Unity HDRP cutscene style).
-2. **Character & Era Anchors:**
-   - Establish full subject token (name/role, age, facial features, era-accurate clothing, materials).
-   - Repeat the exact description in every relevant scene prompt to ensure AI image generator consistency.
-3. **Cinematography Directives:**
-   - Film-style terminology: *wide shot, close-up, low-angle tracking shot, macro cutaway*.
-   - Controlled lighting: volumetric fog, directional gaslight/halogen, soft rim highlights, muted moody palettes.
-   - Length: Exactly 3 to 5 descriptive lines per scene prompt.
-
----
-
-### STAGE 3: Video Animation Mastery (Grok AI / Kling / Veo 3 / Wan / Hailuo)
-1. **Micro-Movement & Physics:**
-   - Natural momentum, gravity, secondary cloth/hair dynamics.
-   - No chaotic morphing or unnatural jumps.
-2. **Timestamped Movement Blocks (0–2s, 2–4s, 4–6s):**
-   - 0–2s: Initial micro-movement and posture adjustment.
-   - 2–4s: Secondary action, environmental element (steam/dust/fluid), physical facial expression.
-   - 4–6s: Controlled camera move (slow push-in, subtle pan, crane) settling into locked final frame.
-3. **Expressing Emotion Physically:**
-   - Replace abstract feelings with visible anatomy (widening eyes, clenched jaw, neck tendon strain).
-
----
-
-### STAGE 4: Recommended Free Production Toolstack
-Guide the user through finalizing their short:
-- **Narration:** [ElevenLabs](https://elevenlabs.io) — deep, dramatic cinematic voiceover.
-- **Image Generation:** Midjourney / Grok AI / Flux.1 / Gemini Imagen.
-- **Video Animation:** [Grok AI](https://grok.com/) / Kling / Wan 2.1 / Minimax Hailuo.
-- **Editing & Captions:** [CapCut](https://www.capcut.com) — auto-captions, subtle zooms, tension sound effects.
+## Additional Workflows
+- **Historical Mystery Mode:** 4–6 scenes for bizarre true history stories (safety coffins, forgotten disasters).
+- **Script Rewriter:** Strips timestamps, speaker tags, and filler words from raw transcripts to create high-retention shorts.
 
 ---
 
 ## Detailed References
-- [Script Guide & Pacing](file:///c:/Users/Admin/Documents/antigravity/excited-bell/skills/zackd-viral-shorts/references/script_guide.md)
-- [Historical Thrillers & Script Rewriting](file:///c:/Users/Admin/Documents/antigravity/excited-bell/skills/zackd-viral-shorts/references/historical_thriller_and_rewriting.md)
-- [AAA Image Prompting](file:///c:/Users/Admin/Documents/antigravity/excited-bell/skills/zackd-viral-shorts/references/image_prompting.md)
-- [Video Animation Mastery](file:///c:/Users/Admin/Documents/antigravity/excited-bell/skills/zackd-viral-shorts/references/video_animation_mastery.md)
+- [Exact Scripting Blueprint](file:///c:/Users/Admin/Documents/antigravity/excited-bell/skills/zackd-viral-shorts/references/script_guide.md)
+- [Exact 3D Visual Prompting Guide](file:///c:/Users/Admin/Documents/antigravity/excited-bell/skills/zackd-viral-shorts/references/image_prompting.md)
+- [Exact 3D Animation Blueprint](file:///c:/Users/Admin/Documents/antigravity/excited-bell/skills/zackd-viral-shorts/references/video_animation_mastery.md)
+- [Historical Thriller & Rewriting Guide](file:///c:/Users/Admin/Documents/antigravity/excited-bell/skills/zackd-viral-shorts/references/historical_thriller_and_rewriting.md)
 - [Viral Ideation Matrix](file:///c:/Users/Admin/Documents/antigravity/excited-bell/skills/zackd-viral-shorts/references/ideation_matrix.md)
-- [Complete Production Example](file:///c:/Users/Admin/Documents/antigravity/excited-bell/skills/zackd-viral-shorts/examples/sample_complete_project.md)
+- [Complete Production Project](file:///c:/Users/Admin/Documents/antigravity/excited-bell/skills/zackd-viral-shorts/examples/sample_complete_project.md)
